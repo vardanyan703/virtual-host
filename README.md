@@ -1,1 +1,1 @@
-# virutal-host for xammp 
+# virutal-host for xampp 
